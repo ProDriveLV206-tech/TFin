@@ -1,0 +1,8 @@
+{
+  "name": "agora-complete",
+  "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ]
+}
